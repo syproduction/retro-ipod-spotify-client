@@ -1,3 +1,6 @@
+#iPod 2th gen Raspberry Pi Zero W mod with SPI display with local music store
+
+
 # sPot
 
 This code is meant to accompany [this project](https://hackaday.io/project/177034-spot-spotify-in-a-4th-gen-ipod-2004) in which a Spotify client is built into an iPod "Classic" from 2004. Everything is meant to run on a Raspberry Pi Zero W.
